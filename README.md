@@ -97,7 +97,7 @@ Now edit the README.md file. When you have finished editing, commit your changes
 
 The final state of the file should be as follows (replacing my information with yours):
 ```
-# Exercise-02a-Bullets-and-Asteroids
+# Exercise-02b-Bullets-and-Asteroids
 
 Exercise for MSCH-C220
 
